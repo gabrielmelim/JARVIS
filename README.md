@@ -3,7 +3,7 @@
 
 #### Descrição
 
-Neste módulo, que faz parte do branch **IntroducaoJava**, trabalhamos com o conceito básico de Java e a criação de um programa simples. O objetivo principal aqui é introduzir o ambiente de desenvolvimento e os fundamentos da linguagem Java.
+Neste módulo, trabalhamos com o conceito básico de Java e a criação de um programa simples que retorna uma mensagem via console. O objetivo principal aqui é introduzir o ambiente de desenvolvimento e os fundamentos da linguagem Java.
 
 #### O que foi feito
 
