@@ -1,4 +1,4 @@
-#### [Clique aqui para voltar ao repositório EstruturaSequencial]([https://github.com/gabrielmelim/JAVA](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial))
+#### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
 ### Expressões Aritméticas
 <div align="center">
