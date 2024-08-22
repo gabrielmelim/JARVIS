@@ -21,8 +21,6 @@ Para começar, você pode explorar os módulos:
 
 📁 [IntroducaoJava](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
 
-Este exemplo contém código e exercícios práticos que ajudam a ilustrar e praticar os conceitos aprendidos.
-
 ### Contribuições e Feedback
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos. Seu feedback é muito importante para o aprimoramento contínuo deste repositório. 🛠️
