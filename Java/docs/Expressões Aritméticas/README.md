@@ -93,8 +93,6 @@ Sempre que tiver dúvidas sobre a ordem das operações, use parênteses para de
   <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploOpMod.png" alt="java" width="100%">
 </div>
 
-### Operador "Mod" em Java
-
 A imagem apresenta dois exemplos de utilização do operador "mod" (ou módulo) em operações matemáticas. O operador "mod" retorna o resto da divisão inteira entre dois números.
 
 #### Explicando os Exemplos
