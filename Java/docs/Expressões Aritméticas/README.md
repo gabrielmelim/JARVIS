@@ -93,42 +93,25 @@ Sempre que tiver dúvidas sobre a ordem das operações, use parênteses para de
   <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploOpMod.png" alt="java" width="100%">
 </div>
 
-### Conceito Básico: Expressões Aritméticas
+### Operador "Mod" em Java
 
-A imagem apresenta um conceito básico da matemática: as expressões aritméticas.
+A imagem apresenta dois exemplos de utilização do operador "mod" (ou módulo) em operações matemáticas. O operador "mod" retorna o resto da divisão inteira entre dois números.
 
-#### O que é uma expressão aritmética?
+#### Explicando os Exemplos
 
-- **Definição:**
-  - Uma combinação de números e operações matemáticas (como adição, subtração, multiplicação e divisão).
-  - Representa um cálculo que precisa ser resolvido para obter um resultado.
+- **`14 % 3`:** Ao dividir 14 por 3, obtemos o quociente 4 e o resto 2. Portanto, `14 % 3` é igual a 2.
+- **`19 % 5`:** Ao dividir 19 por 5, obtemos o quociente 3 e o resto 4. Logo, `19 % 5` é igual a 4.
 
-#### Elementos presentes na imagem:
+#### Representação Visual
 
-- **Expressão:**
-  - A parte da expressão aritmética que contém os números e as operações a serem realizadas. No exemplo dado, a expressão é `4 + 5`.
-  
-- **Resultado:**
-  - O valor obtido após a realização das operações indicadas na expressão. No exemplo, o resultado da soma de 4 e 5 é 9.
-  
-- **Valor numérico:**
-  - Sinônimo de resultado, é o número que representa a solução da expressão.
-  
-  A seta entre "resultado" e "valor numérico" indica que, ao resolver uma expressão, encontramos um valor numérico específico.
+A imagem utiliza um diagrama para ilustrar o cálculo do resto da divisão. As bolinhas verdes representam os números que estão sendo divididos, e as linhas dividem esses números em grupos do tamanho do divisor. O número de elementos que sobra fora dos grupos é o resto da divisão, que é o resultado do operador "mod".
 
-#### O que a imagem nos ensina?
+#### Em Resumo
 
-- O conceito de expressão aritmética de forma visual e simples.
-- A relação entre expressão, resultado e valor numérico.
-- A importância de resolver as operações para encontrar o valor final.
+A imagem demonstra de forma clara e concisa o conceito do operador "mod", mostrando como ele retorna o resto de uma divisão inteira. Essa operação é fundamental em diversas áreas da programação, como:
 
-#### Em resumo:
+- **Verificação de Paridade:** Se o resto da divisão por 2 for 0, o número é par; caso contrário, é ímpar.
+- **Cálculos Cíclicos:** Em aplicações como relógios digitais, o operador "mod" ajuda a garantir que valores como horas e minutos fiquem sempre dentro de um intervalo específico, por exemplo, entre 0 e 59.
+- **Algoritmos de Criptografia:** O operador "mod" é utilizado em diversos algoritmos de criptografia para realizar cálculos sobre números grandes.
 
-A imagem nos mostra que uma expressão aritmética é como uma frase matemática. Ao resolver essa frase, encontramos um número como resposta. Essa resposta é o valor numérico da expressão.
-
-#### Exemplo:
-
-Se tivéssemos a expressão `3 x 2 + 1`, seguiríamos a ordem das operações (multiplicação antes da adição) e obteríamos o resultado `7`.
-
-
-
+O operador "mod" é uma ferramenta essencial para resolver problemas matemáticos e computacionais que envolvem divisões e ciclos.
