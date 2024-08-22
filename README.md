@@ -24,6 +24,6 @@ Este módulo fornece a base para trabalhar com cálculos matemáticos e preparar
 
 ### Módulos
 
-Para começar, você pode explorar os módulos:
+Para começar, você pode explorar as Sessões:
 
 📁 [Expressões Aritiméticas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs)
