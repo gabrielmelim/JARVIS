@@ -22,8 +22,8 @@ Nesta estrutura, você aprende a usar e combinar operações aritméticas básic
 
 Este módulo fornece a base para trabalhar com cálculos matemáticos e preparar você para explorar conceitos mais avançados em programação.
 
-### Módulos
+### Sessões
 
-Para começar, você pode explorar as Sessões:
+Para começar, você pode explorar:
 
 📁 [Expressões Aritiméticas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs)
