@@ -28,5 +28,5 @@ public class Main {
 #### Saída do Programa:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/IntroducaoJava.png" alt="mjv-school" width="100%">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/IntroducaoJava.png" alt="java" width="100%">
 </div>
