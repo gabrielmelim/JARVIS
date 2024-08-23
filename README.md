@@ -3,24 +3,15 @@
 
 ### Descrição
 
-O módulo **Estrutura Sequencial** aborda a execução de instruções em um programa Java na ordem exata em que são escritas, sem desvios de fluxo. Cada comando é executado sequencialmente, permitindo que as operações matemáticas e a manipulação de dados sejam realizadas de maneira linear e direta.
+O módulo **Estrutura Sequencial** é fundamental para entender a execução de instruções em um programa Java, onde cada comando é executado na ordem exata em que aparece no código, sem desvios de fluxo. Essa estrutura permite que você realize operações matemáticas e manipule dados de forma linear e direta.
 
-Nesta estrutura, você aprende a usar e combinar operações aritméticas básicas, como adição, subtração, multiplicação e divisão, para resolver cálculos simples. Além disso, é fundamental compreender a importância da ordem das operações e o uso de parênteses para garantir a precisão dos resultados.
+Neste módulo, você irá:
 
-### Conceitos Principais
+- **Aprender sobre Operações Aritméticas Básicas:** Explore como usar adição (`+`), subtração (`-`), multiplicação (`*`), divisão (`/`) e resto da divisão (`%`) para realizar cálculos simples.
+  
+- **Entender a Ordem das Operações:** Compreenda a importância da ordem em que as operações são executadas e como o uso de parênteses pode influenciar o resultado das expressões. A ordem correta das operações é crucial para garantir que os cálculos sejam precisos.
 
-- **Expressões Aritméticas:** São cálculos matemáticos realizados com números e operadores básicos. O resultado de uma expressão é chamado de valor numérico.
-
-- **Operadores Aritméticos em Java:** Incluem adição (`+`), subtração (`-`), multiplicação (`*`), divisão (`/`), e resto da divisão (`%`). Cada operador realiza uma operação matemática específica e a ordem de precedência determina como as operações são agrupadas.
-
-- **Importância da Ordem das Operações:** A posição dos parênteses e a ordem dos operadores podem alterar significativamente o resultado das expressões. É crucial entender como a ordem de execução afeta o valor final.
-
-### Recursos
-
-- **Imagens:** Exemplos visuais ilustram os conceitos de expressões aritméticas e operadores.
-- **Dicas e Exemplos:** Fornecem orientações sobre a aplicação dos conceitos e a solução de expressões aritméticas complexas.
-
-Este módulo fornece a base para trabalhar com cálculos matemáticos e preparar você para explorar conceitos mais avançados em programação.
+- **Entender Variáveis e Tipos Primitivos:** Aprenda a declarar e utilizar variáveis para armazenar dados. Explore os tipos primitivos de dados em Java, como `int`, `float`, `double`, `char`, e `boolean`. Descubra como cada tipo de dado é utilizado para representar diferentes tipos de informações e como escolher o tipo adequado para suas variáveis. Além disso, aprenda sobre as melhores práticas para nomear variáveis, garantindo clareza e organização no seu código.
 
 ### Sessões
 
