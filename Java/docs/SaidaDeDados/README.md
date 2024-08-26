@@ -1,8 +1,8 @@
 #### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
 # Saída de Dados
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Saida%20de%20dados.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Saida%20de%20dados.png" alt="java" width="50%">
 </div>
 
 A imagem representa de forma simples o processo de saída de dados em um computador. Imagine que um computador é como um cérebro que pensa e um computador. Quando você pede para ele fazer algo, como calcular um valor ou mostrar uma imagem, ele "pensa" e depois te mostra o resultado.
@@ -26,8 +26,8 @@ A imagem mostra que o computador, através de um programa, realiza um cálculo (
 Imagine que você pede para o computador somar dois números. O computador faz o cálculo e mostra o resultado na tela. Essa é uma saída de dados!
 
 # Imprimindo na Tela 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/TextoQualquer.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/TextoQualquer.png" alt="java" width="50%">
 </div>
 
 A imagem apresenta um código simples em Java, uma linguagem de programação muito utilizada para criar diversos tipos de aplicativos. O código demonstra como imprimir um texto na tela, com e sem quebra de linha.
@@ -83,20 +83,20 @@ System.out.println("Que dia lindo!");
 ### Exemplos de Saida No Eclipse:
 
 #### Sem quebra de linha:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/SemQuebraDeLinha.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/SemQuebraDeLinha.png" alt="java" width="50%">
 </div>
 
 #### Com quebra de linha:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/QuebraDeLinha.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/QuebraDeLinha.png" alt="java" width="50%">
 </div>
 <br>
 
 ### Saida de dados com variaveis:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VariavelTipoBasicoApr.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VariavelTipoBasicoApr.png" alt="java" width="50%">
 </div>
 <br>
 
@@ -105,16 +105,16 @@ A imagem mostra como pegar um número guardado em uma caixinha (a variável) e m
 
 ### Exemplo:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/AprVariavel.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/AprVariavel.png" alt="java" width="50%">
 </div>
 <br>
 
 
 # Imprimindo Números com Ponto Flutuante
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VarPontoFlutuante.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VarPontoFlutuante.png" alt="java" width="50%">
 </div>
 
 A imagem apresenta diferentes formas de imprimir o valor de uma variável do tipo `double` (número com ponto flutuante) em Java. Ela demonstra como controlar o número de casas decimais exibidas e como lidar com diferentes configurações regionais (locales).
@@ -204,14 +204,14 @@ Isso imprimiria algo como: `O valor final é: R$ 90.45`
 
 ### Exemplos no Eclipse:
 #### Duas Casas Decimais:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/pontoFlutanteExamplePrint.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/pontoFlutanteExamplePrint.png" alt="java" width="50%">
 </div>
 
 
 #### Quatro Casas Decimais:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/QuatroCasasDec.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/QuatroCasasDec.png" alt="java" width="50%">
 </div>
 
 Nestes exemplos podemos ver o print de uma variavel como um todo dentro do `println` e print de uma variavel com `printf` formatada de forma personalizada.
@@ -232,20 +232,20 @@ Ao definir o `Locale` para `Locale.US`, você assegura que a formatação dos n�
 
 ### Exemplos no Eclipse:
 Perceba que ao escrever Locale.setDeFault(Locale.) quando vc escreve o ponto ele recomenda alguns formatos.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Locale.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Locale.png" alt="java" width="50%">
 </div>
 
 ### Após definir o locale reparem a saida:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/LocaleUS.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/LocaleUS.png" alt="java" width="50%">
 </div>
 
 # Concatenando Elementos em Java
 
 ### Após definir o locale reparem a saida:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Concatenar.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Concatenar.png" alt="java" width="50%">
 </div>
 
 A imagem apresenta uma forma simples e direta de concatenar (juntar) diferentes elementos em uma única linha de código, utilizando a linguagem de programação Java.
@@ -321,14 +321,14 @@ A concatenação permite que você junte diferentes partes em uma única string,
 
 ### Exemplo no Eclipse Utilizando Println:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploConcatPrintln.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploConcatPrintln.png" alt="java" width="50%">
 </div>
 
 ### Exemplo no Eclipse Utilizando Printf:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploConcatPrintf.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/ExemploConcatPrintf.png" alt="java" width="50%">
 </div>
 
 O código a seguir utiliza o método `printf` para formatar a saída de uma variável em Java:
@@ -358,8 +358,8 @@ Este código `System.out.printf("Resultado = %.2f Metros\n", x);` formata a saí
 
 ## Concatenando Elementos em Java com `printf` e Diversos Elementos
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VariosElementosConcat.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/VariosElementosConcat.png" alt="java" width="50%">
 </div>
 
 A imagem apresenta uma forma eficiente de combinar diferentes tipos de dados (texto, números inteiros e números com casas decimais) em uma única linha de saída, utilizando o comando `printf` em Java.
@@ -408,6 +408,6 @@ O método `printf` é ideal para criar saídas formatadas que combinam diferente
 
 ### Exercício de Fixação:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Exercicio%20Saida%20Dados%201.png" alt="java" width="100%">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Exercicio%20Saida%20Dados%201.png" alt="java" width="50%">
 </div>
