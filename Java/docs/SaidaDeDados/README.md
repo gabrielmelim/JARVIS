@@ -405,3 +405,9 @@ Nome: João, Idade: 25 anos, Altura: 1.75 metros
 
 ### Resumo
 O método `printf` é ideal para criar saídas formatadas que combinam diferentes tipos de dados. Os especificadores de formato permitem controlar a exibição precisa de números e textos, enquanto os argumentos fornecem os valores a serem inseridos nas posições indicadas.
+
+### Exercício de Fixação:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Exercicio%20Saida%20Dados%201.png" alt="java" width="100%">
+</div>
