@@ -147,5 +147,5 @@ A imagem mostra que a escolha de nomes para variáveis é importante para escrev
 
 Use nomes de variáveis que reflitam o propósito da variável. Por exemplo, ao invés de usar a variável `x`, use `idade` se ela armazena a idade de uma pessoa. Isso torna o código mais autoexplicativo.
 
-
+#### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
