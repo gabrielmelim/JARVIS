@@ -416,8 +416,8 @@ O método `printf` é ideal para criar saídas formatadas que combinam diferente
 
 📘 [Exercício de Fixação Saida de Dados](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/ExercicioFixacaoSaidaDados/src/Main.java)
 
-#### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
-
 ### Obs:
 Vocês podem encontrar o código na pasta Java/Codigo na branch 🌳 [EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/codigo)
+
+#### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
