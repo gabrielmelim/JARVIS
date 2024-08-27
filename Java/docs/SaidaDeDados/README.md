@@ -411,3 +411,11 @@ O método `printf` é ideal para criar saídas formatadas que combinam diferente
 <div align="left">
   <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Exercicio%20Saida%20Dados%201.png" alt="java" width="50%">
 </div>
+
+### Exercício de Fixação Concluido:
+
+📘 [Exercício de Fixação Saida de Dados](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/ExercicioFixacaoSaidaDados/src/Main.java)
+
+### Obs:
+Vocês podem encontrar o código na pasta Java/Codigo na branch 🌳 [EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/codigo)
+
