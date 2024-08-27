@@ -15,6 +15,8 @@ Neste módulo, você irá:
   
 - **Saída de Dados em Java:** Aprenda a imprimir informações na tela usando `System.out.print()`, `System.out.println()`, e `System.out.printf()`. Entenda como formatar a saída de dados, incluindo números com casas decimais e textos personalizados. Explore como o método `printf` permite um controle detalhado sobre a formatação da saída, proporcionando uma apresentação mais organizada e profissional dos dados.
 
+- **Processamento de Dados** aborda como manipular e converter valores em um programa Java, utilizando comandos básicos e técnicas de conversão.
+
 ### Sessões
 
 Para começar, você pode explorar:
