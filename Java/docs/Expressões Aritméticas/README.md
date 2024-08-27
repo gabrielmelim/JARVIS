@@ -113,3 +113,5 @@ A imagem demonstra de forma clara e concisa o conceito do operador "mod", mostra
 - **Algoritmos de Criptografia:** O operador "mod" é utilizado em diversos algoritmos de criptografia para realizar cálculos sobre números grandes.
 
 O operador "mod" é uma ferramenta essencial para resolver problemas matemáticos e computacionais que envolvem divisões e ciclos.
+
+#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
