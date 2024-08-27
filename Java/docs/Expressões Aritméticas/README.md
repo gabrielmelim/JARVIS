@@ -114,4 +114,4 @@ A imagem demonstra de forma clara e concisa o conceito do operador "mod", mostra
 
 O operador "mod" é uma ferramenta essencial para resolver problemas matemáticos e computacionais que envolvem divisões e ciclos.
 
-#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
+#### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
