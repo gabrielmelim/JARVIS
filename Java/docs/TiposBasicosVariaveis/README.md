@@ -106,11 +106,6 @@ Se você precisa armazenar a idade de uma pessoa, o tipo `int` seria adequado, p
 
 A imagem apresenta as regras básicas para a criação de nomes de variáveis em programação, utilizando a linguagem Java como exemplo.
 
-### O que é uma variável?
-
-Imagine uma caixa onde você guarda informações. Em programação, essa caixa é chamada de variável.  
-Cada caixa precisa de um nome para que você possa encontrá-la e utilizar a informação que está dentro dela.
-
 ### Regras para dar nomes às variáveis:
 
 A imagem destaca as seguintes regras:
