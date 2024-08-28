@@ -243,7 +243,6 @@ Perceba que ao escrever Locale.setDeFault(Locale.) quando vc escreve o ponto ele
 
 # Concatenando Elementos em Java
 
-### Após definir o locale reparem a saida:
 <div align="left">
   <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/Concatenar.png" alt="java" width="50%">
 </div>
