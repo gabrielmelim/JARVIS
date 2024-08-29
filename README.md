@@ -19,9 +19,9 @@ Este repositório contém materiais e códigos relacionados ao aprendizado de Ja
 
 Para começar, você pode explorar os módulos:
 
-📁 [IntroducaoJava](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
+📁 [Introducão Java](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
 <br>
-📁 [EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
+📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
 ### Contribuições e Feedback
 
