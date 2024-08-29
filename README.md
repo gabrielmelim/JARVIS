@@ -15,7 +15,11 @@ Neste módulo, você irá:
   
 - **Saída de Dados em Java:** Aprenda a imprimir informações na tela usando `System.out.print()`, `System.out.println()`, e `System.out.printf()`. Entenda como formatar a saída de dados, incluindo números com casas decimais e textos personalizados. Explore como o método `printf` permite um controle detalhado sobre a formatação da saída, proporcionando uma apresentação mais organizada e profissional dos dados.
 
-- **Processamento de Dados** aborda como manipular e converter valores em um programa Java, utilizando comandos básicos e técnicas de conversão.
+- **Processamento de Dados:** aborda como manipular e converter valores em um programa Java, utilizando comandos básicos e técnicas de conversão.
+
+- **Entrada de Dados em Java:** Aprenda como receber informações do usuário utilizando a classe Scanner. Entenda como criar um objeto Scanner para ler entradas do teclado e como utilizar métodos como nextInt(), nextDouble(), nextLine(), entre outros, para capturar diferentes tipos de dados. Explore a importância da validação de entrada para garantir que os dados fornecidos sejam válidos e como lidar com exceções que podem ocorrer durante a leitura dos dados.
+
+- **Funções Matemáticas em Java:** Descubra como utilizar a classe Math para realizar operações matemáticas mais avançadas. Explore métodos úteis como Math.sqrt() para calcular raízes quadradas, Math.pow() para elevar números a potências, Math.abs() para obter o valor absoluto, e Math.max() e Math.min() para encontrar o maior e o menor valor entre dois números. Entenda como essas funções podem ser utilizadas para expandir as capacidades matemáticas de seus programas e resolver problemas mais complexos.
 
 ### Sessões
 
@@ -28,5 +32,11 @@ Para começar, você pode explorar:
 📁 [Saida de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/SaidaDeDados)
 <br>
 📁 [Processamento de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/ProcessamentoDeDados)
+<br>
+📁 [Entrada de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/EntradaDeDados)
+<br>
+📁 [Funcões Matematicas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/FuncoesMatematicas)
+
+
 
 #### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
