@@ -36,6 +36,10 @@ Para começar, você pode explorar:
 📁 [Entrada de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/EntradaDeDados)
 <br>
 📁 [Funcões Matematicas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/FuncoesMatematicas)
+<br>
+📁 [Atividades para fixar o conteúdo](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/ExerciciosDeFixa%C3%A7%C3%A3oFimModulo)
+
+
 
 
 
