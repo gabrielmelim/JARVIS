@@ -68,6 +68,8 @@ public class SomaNumeros {
 
 Preencha as partes faltantes do código e teste seu programa!
 
+✅ [Correção Exercicio 1](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio1/src/Main.java)
+
 ## Exercício 2
 
 Crie um programa em Java que:
@@ -155,6 +157,9 @@ public class AreaCirculo {
 - **Pratique:** Quanto mais você praticar, mais familiarizado você se tornará com a linguagem Java e com a resolução de problemas de programação.
 
 
+ ✅ [Correção Exercicio 2](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio2/src/Main.java)
+
+
 ## Exercício 3
 
 Crie um programa em Java que:
@@ -226,6 +231,8 @@ public class CalculadoraDiferenca {
 - **Use parênteses:** Os parênteses são importantes para garantir que as operações sejam realizadas na ordem correta.
 - **Armazene o resultado:** O resultado do cálculo deve ser armazenado na variável `diferenca`.
 
+✅ [Correção Exercicio 3](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio3/src/Main.java)
+
 ## Exercício 4
 ```Java
 import java.util.Scanner;
@@ -293,6 +300,8 @@ public class CalculoSalario {
 ### Dicas:
 
 - **Formatação:** Utilize indentação e espaçamento adequados para melhorar a legibilidade do código.
+
+✅ [Correção Exercicio 4](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio4/src/Main.java)
 
 ## Exercício 5
 ```Java
@@ -370,6 +379,8 @@ public class CalculoValorTotal {
 ### Dicas:
 
 - **Formatação:** Utilize indentação e espaçamento adequados para melhorar a legibilidade do código.
+
+✅ [Correção Exercicio 5](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio5/src/Main.java)
 
 ## Exercício 6
 
@@ -462,6 +473,8 @@ Para te ajudar a completar o código, vamos relembrar as fórmulas para calcular
 - **Utilize a constante pi:** Para calcular a área do círculo, você precisará usar a constante pi. Em Java, você pode utilizar `Math.PI`.
 - **Formatação:** Utilize `%.3f` no `printf` para formatar as áreas com três casas decimais, como especificado no exercício.
 - **Comentários:** Adicione comentários para explicar o propósito de cada parte do código e facilitar a compreensão.
+
+✅ [Correção Exercicio 6](https://github.com/gabrielmelim/JAVA/blob/EstruturaSequencial/Java/codigo/Exercicio6/src/Main.java)
 
 
 #### [Clique aqui para voltar ao repositório EstruturaSequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
