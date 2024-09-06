@@ -24,6 +24,9 @@ Para começar, você pode explorar os módulos:
 
 📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 
+📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional)
+<br>
+
 ### Contribuições e Feedback
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos. Seu feedback é muito importante para o aprimoramento contínuo deste repositório. 🛠️
