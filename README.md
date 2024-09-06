@@ -47,6 +47,3 @@ Para começar, você pode explorar:
 
 
 #### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
-
-
-#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
