@@ -27,20 +27,26 @@ Para começar, você pode explorar:
 
 📁 [Expressões Aritiméticas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/Express%C3%B5es%20Aritm%C3%A9ticas)
 <br>
+
 📁 [Variaveis](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/TiposBasicosVariaveis)
 <br>
+
 📁 [Saida de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/SaidaDeDados)
 <br>
+
 📁 [Processamento de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/ProcessamentoDeDados)
 <br>
+
 📁 [Entrada de Dados](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/EntradaDeDados)
 <br>
+
 📁 [Funcões Matematicas](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/FuncoesMatematicas)
 <br>
+
 📁 [Atividades para fixar o conteúdo](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial/Java/docs/ExerciciosDeFixa%C3%A7%C3%A3oFimModulo)
 
 
-
+#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
 
 
 #### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
