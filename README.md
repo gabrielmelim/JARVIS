@@ -18,7 +18,7 @@ O módulo **Estrutura Condicional** em Java permite alterar o fluxo de execuçã
 
 Para começar, você pode explorar:
 
-📁 [Expressões Comparativas]()
+📁 [Expressões Comparativas](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional/Java/docs/ExpressoesComparativa)
 <br>
 
 📁 [Expressões Lógicas]()
