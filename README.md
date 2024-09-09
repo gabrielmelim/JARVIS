@@ -18,13 +18,16 @@ O módulo **Estrutura Condicional** em Java permite alterar o fluxo de execuçã
 
 Para começar, você pode explorar:
 
-📁 [Estrutura Condicional]()
+📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional/Java/docs/EstruturaCondicional)
 <br>
 
 📁 [Expressões Comparativas](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional/Java/docs/ExpressoesComparativa)
 <br>
 
-📁 [Expressões Lógicas]()
+📁 [Expressões Lógicas](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional/Java/docs/ExpressoesLogicas)
+<br>
+
+📁 [Exercícios](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional/Java/docs/ExerciciosCondicionais)
 
 
 
