@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Nesta aula, vamos aprender sobre a estrutura de repetição `while` em Java. A estrutura `while` permite que um bloco de código seja executado repetidamente, enquanto uma condição for verdadeira. É amplamente utilizada quando não se sabe o número exato de repetições que o programa deve realizar.
+vamos aprender sobre a estrutura de repetição `while` em Java. A estrutura `while` permite que um bloco de código seja executado repetidamente, enquanto uma condição for verdadeira. É amplamente utilizada quando não se sabe o número exato de repetições que o programa deve realizar.
 
 ## Sintaxe Básica
 
