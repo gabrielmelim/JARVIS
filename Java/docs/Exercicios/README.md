@@ -7,6 +7,6 @@ Os exercícios fornecidos aqui são úteis para iniciantes que estão aprendendo
 
 ## Exercicios
 
-📁 [While]()
+📁 [While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios/ExerciciosWhile)
 <br>
 
