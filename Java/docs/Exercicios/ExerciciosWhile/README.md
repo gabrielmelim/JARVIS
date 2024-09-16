@@ -46,7 +46,9 @@ public class SomarNumeros {
     }
 }
 ```
+
 ✅ [Correção Exercicio 2](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/SomarNumeros.java)
+
 ---
 
 ## Exemplo 3: Lendo números até que um valor negativo seja inserido
