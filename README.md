@@ -21,12 +21,7 @@ Para começar, você pode explorar:
 📁 [Estrutura While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/While)
 <br>
 
-📁 [Controle de Loops]()
-<br>
-
-📁 [Loops Aninhados]()
-<br>
-
 📁 [Exercícios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
+<br>
 
 #### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
