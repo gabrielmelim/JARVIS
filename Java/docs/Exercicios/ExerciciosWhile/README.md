@@ -19,7 +19,7 @@ public class ContarAteDez {
     }
 }
 ```
-#### R: 📁 [Ex1](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/ContarAteDez.java)
+✅ [Correção Exercicio 1](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/ContarAteDez.java)
 
 ---
 
@@ -46,7 +46,7 @@ public class SomarNumeros {
     }
 }
 ```
-#### R: 📁 [Ex2](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/SomarNumeros.java)
+✅ [Correção Exercicio 2](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/SomarNumeros.java)
 ---
 
 ## Exemplo 3: Lendo números até que um valor negativo seja inserido
@@ -74,7 +74,7 @@ public class LeituraDeNumeros {
     }
 }
 ```
-#### R: 📁 [Ex3](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/LeituraDeNumeros.java)
+✅ [Correção Exercicio 3](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/LeituraDeNumeros.java)
 
 ---
 
