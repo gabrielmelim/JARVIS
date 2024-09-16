@@ -2,7 +2,7 @@
 # Estrutura de Repetição `while` em Java
 
 <div align="left">
-  <img src="" alt="java" width="50%">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/While.png" alt="java" width="50%">
 </div>
 
 ## Introdução
@@ -12,7 +12,7 @@ Nesta aula, vamos aprender sobre a estrutura de repetição `while` em Java. A e
 ## Sintaxe Básica
 
 <div align="left">
-  <img src="" alt="java" width="50%">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/While2.png" alt="java" width="50%">
 </div>
 
 A sintaxe da estrutura `while` é simples e segue o seguinte formato:
