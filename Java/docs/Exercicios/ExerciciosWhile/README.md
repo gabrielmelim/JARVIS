@@ -1,4 +1,4 @@
-#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 
 # Exercícios de Estrutura de Repetição `while` em Java
 
@@ -78,4 +78,4 @@ public class LeituraDeNumeros {
 
 ---
 
-#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
