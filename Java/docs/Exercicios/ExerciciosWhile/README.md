@@ -21,6 +21,7 @@ public class ContarAteDez {
 ```
 #### R: 📁 [Ex1](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/ContarAteDez.java)
 <br>
+
 ---
 
 ## Exemplo 2: Somando números inteiros de 1 a N
@@ -75,5 +76,7 @@ public class LeituraDeNumeros {
 }
 ```
 #### R: 📁 [Ex3](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/LeituraDeNumeros.java)
+
+---
 
 #### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
