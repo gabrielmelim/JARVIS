@@ -27,6 +27,6 @@ Para começar, você pode explorar:
 📁 [Loops Aninhados]()
 <br>
 
-📁 [Exercícios]()
+📁 [Exercícios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 
 #### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
