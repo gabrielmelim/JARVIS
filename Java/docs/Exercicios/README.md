@@ -1,3 +1,4 @@
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 
 # Diretório de Exercícios em Java
 
@@ -10,3 +11,4 @@ Os exercícios fornecidos aqui são úteis para iniciantes que estão aprendendo
 📁 [While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios/ExerciciosWhile)
 <br>
 
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
