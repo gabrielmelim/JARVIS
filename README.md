@@ -23,8 +23,12 @@ Para começar, você pode explorar os módulos:
 <br>
 
 📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
+<br>
 
 📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional)
+<br>
+
+📁 [Estrutura Repetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 <br>
 
 ### Contribuições e Feedback
