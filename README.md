@@ -18,7 +18,7 @@ O módulo **Estruturas Repetitivas** em Java permite executar um bloco de códig
 
 Para começar, você pode explorar:
 
-📁 [Estruturas de Repetição]()
+📁 [Estrutura While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/While)
 <br>
 
 📁 [Controle de Loops]()
