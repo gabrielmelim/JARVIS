@@ -20,7 +20,6 @@ public class ContarAteDez {
 }
 ```
 #### R: 📁 [Ex1](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosWhile/src/ContarAteDez.java)
-<br>
 
 ---
 
