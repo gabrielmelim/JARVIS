@@ -21,7 +21,7 @@ public class ExercicioFor1 {
     }
 }
 ```
-
+✅ [Correção Exercicio 1]()
 ---
 
 ## Exercício 2: Soma de Números com Laço "For"
