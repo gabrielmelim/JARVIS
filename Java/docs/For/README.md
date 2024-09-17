@@ -1,3 +1,4 @@
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 
 # Aula de Laço `for` em Java
 
@@ -70,4 +71,5 @@ Neste exemplo:
 ### Conclusão
 
 O laço `for` é uma estrutura fundamental em Java que facilita a repetição de um bloco de código. Compreender sua sintaxe e funcionamento é essencial para construir algoritmos eficientes.
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 
