@@ -21,6 +21,10 @@ Para começar, você pode explorar:
 📁 [Estrutura While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/While)
 <br>
 
+📁 [Estrutura For](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/For)
+<br>
+
+
 📁 [Exercícios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 <br>
 
