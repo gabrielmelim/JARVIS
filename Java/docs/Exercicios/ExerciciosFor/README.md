@@ -21,7 +21,9 @@ public class ExercicioFor1 {
     }
 }
 ```
-✅ [Correção Exercicio 1]()
+
+✅ [Correção Exercicio 1](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio1.java)
+
 ---
 
 ## Exercício 2: Soma de Números com Laço "For"
@@ -50,6 +52,8 @@ public class ExercicioFor2 {
 }
 ```
 
+✅ [Correção Exercicio 2](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio2.java)
+
 ---
 
 ## Exercício 3: Números Pares com Laço "For"
@@ -73,6 +77,8 @@ public class ExercicioFor3 {
     }
 }
 ```
+
+✅ [Correção Exercicio 3](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio3.java)
 
 ---
 
@@ -111,6 +117,8 @@ public class ExercicioFor4 {
     }
 }
 ```
+
+✅ [Correção Exercicio 4](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio4.java)
 
 ---
 
@@ -155,3 +163,5 @@ public class ExercicioFor5 {
     }
 }
 ```
+
+✅ [Correção Exercicio 5](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio5.java)
