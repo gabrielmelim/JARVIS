@@ -1,4 +1,4 @@
-
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 # Exercícios de Java - Estrutura For
 
 ## Exercício 1: Laço "For" Básico
@@ -165,3 +165,4 @@ public class ExercicioFor5 {
 ```
 
 ✅ [Correção Exercicio 5](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosFor/Exercicio5.java)
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
