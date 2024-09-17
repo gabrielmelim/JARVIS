@@ -2,11 +2,20 @@
 
 # Aula de Laço `for` em Java
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/For.png" alt="java" width="50%">
+</div>
+
 ## Introdução
 
 Nesta aula, abordaremos a estrutura de repetição `for` em Java. Este laço é amplamente utilizado para executar um bloco de código várias vezes, especialmente quando o número de iterações é conhecido.
 
 ### Sintaxe Básica do `for`
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/SintaxeFor.png" alt="java" width="50%">
+</div>
+
 
 A estrutura básica de um laço `for` é a seguinte:
 
