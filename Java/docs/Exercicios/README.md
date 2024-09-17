@@ -11,4 +11,7 @@ Os exercícios fornecidos aqui são úteis para iniciantes que estão aprendendo
 📁 [While](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios/ExerciciosWhile)
 <br>
 
+📁 [For]()
+<br>
+
 #### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
