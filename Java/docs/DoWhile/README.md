@@ -7,7 +7,7 @@ Em Java, a estrutura de repetição **do-while** é usada quando queremos que um
 
 ### Sintaxe do Do-While
 <div align="left">
-  <img src="" alt="java" width="50%">
+  <img src="https://raw.githubusercontent.com/gabrielmelim/imgs/main/java/DoWhile.png" alt="java" width="50%">
 </div>
 
 A sintaxe básica de um laço `do-while` é a seguinte:
