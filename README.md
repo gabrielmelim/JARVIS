@@ -24,6 +24,9 @@ Para começar, você pode explorar:
 📁 [Estrutura For](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/For)
 <br>
 
+📁 [Estrutura DoWhile](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/DoWhile)
+<br>
+
 
 📁 [Exercícios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 <br>
