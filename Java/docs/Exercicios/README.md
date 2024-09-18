@@ -14,4 +14,7 @@ Os exercícios fornecidos aqui são úteis para iniciantes que estão aprendendo
 📁 [For](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios/ExerciciosFor)
 <br>
 
+📁 [DoWhile](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios/Exercicios%20DoWhile)
+<br>
+
 #### [Clique aqui para voltar ao repositório EstruturaRepetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
