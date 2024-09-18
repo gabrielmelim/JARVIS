@@ -1,4 +1,4 @@
-
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
 # Exercício 1: Criar um loop que pergunte ao usuário por um número até que ele insira um número maior que 100
 
 ---
@@ -46,3 +46,5 @@ public class LoopDoWhileExercicio {
 3. **Usar a classe Scanner**: Para capturar a entrada do usuário, você precisará instanciar a classe `Scanner`.
 4. **Criar o loop `do-while`**: No bloco `do`, você pedirá ao usuário que insira um número, e na condição do `while`, o laço continuará enquanto o número for menor ou igual a 100.
 5. **Finalizar o programa**: Após sair do laço, exiba uma mensagem indicando o término do programa.
+✅ [Correção Exercicio](https://github.com/gabrielmelim/JAVA/blob/EstruturaRepetitiva/Java/codigo/ExerciciosDoWhile/LoopDoWhileExercicio.java)
+#### [Clique aqui para voltar ao repositório EstruturaRepetitiva Exercicios](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva/Java/docs/Exercicios)
