@@ -1,4 +1,4 @@
-
+#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
 # Módulo Orientação a Objetos
 
 O módulo **Orientação a Objetos** em Java introduz os conceitos fundamentais da programação orientada a objetos (POO), que é um dos paradigmas mais importantes da programação moderna. A POO permite organizar o código de forma modular, facilitando a reutilização, manutenção e extensão.
@@ -18,11 +18,13 @@ O módulo **Orientação a Objetos** em Java introduz os conceitos fundamentais 
 ## Sessões
 
 Para começar, você pode explorar:
+📁 [Revisão Programação sem Orientação a Objetos](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
+<br>
+2. Introdução à Orientação a Objetos.
+3. Classes e Objetos.
+4. Encapsulamento.
+5. Herança.
+6. Polimorfismo.
+7. Exercícios práticos.
 
-1. Introdução à Orientação a Objetos.
-2. Classes e Objetos.
-3. Encapsulamento.
-4. Herança.
-5. Polimorfismo.
-6. Exercícios práticos.
-
+#### [Clique aqui para voltar ao repositório principal](https://github.com/gabrielmelim/JAVA)
