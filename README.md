@@ -527,7 +527,7 @@ public class ConexaoJDBC {
 
 ---
 
-## Seção 18: Bônus: Threads e programação concorrente
+## Seção 18: Threads e programação concorrente
 
 Nesta seção, abordamos a criação de **threads**, permitindo que programas Java executem múltiplas tarefas em paralelo.
 
