@@ -34,6 +34,10 @@ Para começar, você pode explorar os módulos:
 📁 [Estrutura Repetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 <br>
 
+📁 [Orientação Objeto](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
+<br>
+
+
 ### Contribuições e Feedback
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos. Seu feedback é muito importante para o aprimoramento contínuo deste repositório. 🛠️
