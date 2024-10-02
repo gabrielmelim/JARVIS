@@ -625,8 +625,6 @@ public class HelloFX extends Application {
 
 # Fundamentos Avançados em Java
 
-Este projeto abrange diversos tópicos avançados e fundamentais no desenvolvimento em Java, com foco no fortalecimento das habilidades de programação e na criação de aplicações robustas. Abaixo estão os principais temas explorados.
-
 ### Generics
 - Uso de parâmetros de tipo para criar **classes**, **interfaces** e **métodos** genéricos, permitindo a reutilização de código de maneira segura e flexível.
 
