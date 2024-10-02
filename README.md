@@ -1,45 +1,28 @@
-## Boas Vindas! 🌟
 
-Olá, cavaleiro(a) Jedi! 🪐 Meu nome é Gabriel Melim e sou apaixonado por tecnologia 🚀. Este repositório é uma parte importante da minha jornada de aprendizado e desenvolvimento na linguagem Java. Atuo atualmente como desenvolvedor Java Back-End e criei este espaço para consolidar e revisar meus conhecimentos em Java, desde os conceitos mais básicos até os mais avançados.
+# Módulo Orientação a Objetos
 
-O objetivo deste repositório é servir como um ambiente organizado onde eu posso explorar e aprofundar diferentes aspectos da programação em Java. Cada módulo de estudo está separado em branches distintas, o que facilita a organização e o acompanhamento do progresso.
+O módulo **Orientação a Objetos** em Java introduz os conceitos fundamentais da programação orientada a objetos (POO), que é um dos paradigmas mais importantes da programação moderna. A POO permite organizar o código de forma modular, facilitando a reutilização, manutenção e extensão.
 
-Aqui, você encontrará uma variedade de materiais 📚, exemplos de código 💻 e desafios práticos 💡 que refletem o conteúdo que estou revisando. Sinta-se à vontade para explorar, aprender e até contribuir com melhorias! ✨
+## Neste módulo, você irá:
 
-### Sobre o Repositório
+- **Aprender os princípios da POO**: Entenda conceitos como classe, objeto, herança, polimorfismo, encapsulamento e abstração.
+  
+- **Criar e manipular classes e objetos**: Saiba como definir classes, instanciar objetos e utilizar seus atributos e métodos.
 
-Este repositório contém materiais e códigos relacionados ao aprendizado de Java. Ao explorar os arquivos e diretórios, você encontrará exemplos práticos, algoritmos e desafios que refletem o conteúdo estudado e revisado.
+- **Explorar herança e polimorfismo**: Veja como a herança permite reutilizar código e como o polimorfismo facilita a flexibilidade do código, permitindo que diferentes classes respondam de forma variada ao mesmo método.
 
-### Estrutura do Repositório
+- **Trabalhar com encapsulamento e abstração**: Entenda como proteger os dados da sua aplicação com encapsulamento e como a abstração pode ajudar a simplificar a complexidade.
 
-- **Branches**: Cada branch corresponde a um módulo específico de estudo, com exemplos e exercícios relacionados.
-- **Diretórios e Arquivos**: Dentro de cada branch, os diretórios são organizados por temas ou conceitos específicos, facilitando a navegação e o acesso ao conteúdo relevante.
+- **Praticar com exemplos e exercícios**: Reforce seu aprendizado com exemplos práticos e exercícios que desafiem sua compreensão sobre a criação e uso de classes, herança, polimorfismo, encapsulamento e outros conceitos da POO.
 
-### Módulos
+## Sessões
 
-Para começar, você pode explorar os módulos:
+Para começar, você pode explorar:
 
-📁 [Introducão Java](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
-<br>
+1. Introdução à Orientação a Objetos.
+2. Classes e Objetos.
+3. Encapsulamento.
+4. Herança.
+5. Polimorfismo.
+6. Exercícios práticos.
 
-📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
-
-📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional)
-<br>
-
-### Contribuições e Feedback
-
-Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos. Seu feedback é muito importante para o aprimoramento contínuo deste repositório. 🛠️
-
-Espero que este repositório seja uma valiosa fonte de aprendizado e que possa ajudá-lo(a) em sua jornada de desenvolvimento em Java! 🌟
-
----
-
-### Contato
-
-Se precisar de mais informações ou tiver dúvidas, não hesite em me contatar:
-
-- **Email**: [gabrielmelim2012@hotmail.com](mailto:gabrielmelim2012@hotmail.com) 📧
-- **LinkedIn**: [Gabriel Melim](https://www.linkedin.com/in/gabrielmelim/) 🔗
-
-Bom estudo e que a força esteja com você! 🌌
