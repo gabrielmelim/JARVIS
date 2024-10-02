@@ -418,9 +418,6 @@ public class Main {
 }
 ```
 
-
-# Curso Avançado de Programação em Java - Parte 2
-
 ## Seção 15: Generics, Set, Map
 
 ### 15.1. Generics
