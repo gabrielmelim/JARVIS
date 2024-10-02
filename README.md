@@ -19,22 +19,22 @@ Este repositório contém materiais e códigos relacionados ao aprendizado de Ja
 
 Para começar, você pode explorar os módulos:
 
-📁 [Overview Repositório](https://github.com/gabrielmelim/JAVA/tree/overview)
+1.📁 [Overview Repositório](https://github.com/gabrielmelim/JAVA/tree/overview)
 <br>
 
-📁 [Introducão Java](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
+2.📁 [Introducão Java](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
 <br>
 
-📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
+3.📁 [Estrutura Sequencial](https://github.com/gabrielmelim/JAVA/tree/EstruturaSequencial)
 <br>
 
-📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional)
+4.📁 [Estrutura Condicional](https://github.com/gabrielmelim/JAVA/tree/EstruturaCondicional)
 <br>
 
-📁 [Estrutura Repetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
+5.📁 [Estrutura Repetitiva](https://github.com/gabrielmelim/JAVA/tree/EstruturaRepetitiva)
 <br>
 
-📁 [Orientação Objeto](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
+6.📁 [Orientação Objeto](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
 <br>
 
 
