@@ -19,7 +19,7 @@ O módulo **Orientação a Objetos** em Java introduz os conceitos fundamentais 
 
 Para começar, você pode explorar:
 
-📁 [Revisão Programação sem Orientação a Objetos](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
+📁 [Revisão Programação sem Orientação a Objetos](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto/Java/docs/ExSemOOP)
 <br>
 
 2. Introdução à Orientação a Objetos.
