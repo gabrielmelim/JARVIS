@@ -1,7 +1,7 @@
 #### [Clique aqui para voltar ao repositório Orientacao Objeto](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
 # Revisão à Programação em Java - Sem Orientação a Objetos
 
-## Objetivo
+### Objetivo
  vamos aprender como resolver um problema de cálculo de área de triângulos sem utilizar o conceito de Orientação a Objetos (OOP). 
 
 ## Problema Exemplo
