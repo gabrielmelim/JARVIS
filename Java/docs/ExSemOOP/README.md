@@ -1,8 +1,8 @@
 
-# Aula: Introdução à Programação em Java - Sem Orientação a Objetos
+# Revisão à Programação em Java - Sem Orientação a Objetos
 
 ## Objetivo
-Nesta aula, vamos aprender como resolver um problema de cálculo de área de triângulos sem utilizar o conceito de Orientação a Objetos (OOP). 
+ vamos aprender como resolver um problema de cálculo de área de triângulos sem utilizar o conceito de Orientação a Objetos (OOP). 
 
 ## Problema Exemplo
 Fazer um programa para ler as medidas dos lados de dois triângulos **X** e **Y** (suponha que as medidas são válidas). Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual deles possui a maior área.
