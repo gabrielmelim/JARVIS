@@ -18,6 +18,8 @@ Este repositório contém materiais e códigos relacionados ao aprendizado de Ja
 ### Módulos
 
 Para começar, você pode explorar os módulos:
+📁 [Overview Repositório](https://github.com/gabrielmelim/JAVA/tree/overview)
+<br>
 
 📁 [Introducão Java](https://github.com/gabrielmelim/JAVA/tree/IntroducaoJava)
 <br>
