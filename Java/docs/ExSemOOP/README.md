@@ -110,6 +110,6 @@ public class Main {
 
 ## Conclusão
 
-Este exemplo mostra uma abordagem sem Orientação a Objetos, onde o código está centrado na função principal e nas operações diretas. Na próxima aula, vamos evoluir este exemplo utilizando conceitos de Orientação a Objetos para melhorar a organização e a reutilização de código.
+Este exemplo mostra uma abordagem sem Orientação a Objetos, onde o código está centrado na função principal e nas operações diretas. Nas próximas etapas, vamos evoluir este exemplo utilizando conceitos de Orientação a Objetos para melhorar a organização e a reutilização de código.
 
 #### [Clique aqui para voltar ao repositório Orientacao Objeto](https://github.com/gabrielmelim/JAVA/tree/OrientacaoObjeto)
